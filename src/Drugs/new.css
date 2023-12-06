@@ -1,0 +1,57 @@
+.expired-row {
+    background-color: rgb(73, 235, 52);
+    color: red;
+}
+
+.Drug{
+    display: flex;
+    background: url(https://wallpaperaccess.com/full/469545.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    overflow: auto;
+}
+
+.Create{
+    display: flex;
+    background: url(https://wallpaperaccess.com/full/124383.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    top: 0;
+}
+
+.View{
+    display: flex;
+    background: url(https://wallpaperaccess.com/full/133197.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    top: 0;
+}
+
+.Edit{
+    display: flex;
+    background: url(https://wallpaperaccess.com/full/8642968.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    top: 0;
+}
+
+.Delete{
+    display: flex;
+    background: url(https://wallpaperaccess.com/full/2831961.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    top: 0;
+}

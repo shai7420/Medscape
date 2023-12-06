@@ -1,0 +1,33 @@
+.active{
+    background: #15a6b4;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.lo{
+    border-radius: 20px;
+    display: inline-block;
+    transition: all 0.3s ease;
+    font-size: 17px;
+    font-weight: 380;
+}
+
+.lo:hover{
+    background-color: red;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+}
+
+.ts{
+    width: 50px;
+    height: 40px;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: #15a6b4;
+    cursor: pointer;
+}

@@ -1,0 +1,57 @@
+.Sg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url(https://wallpaperaccess.com/full/1330652.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    top: 0;
+    opacity: 0.9;
+    position: fixed;
+    width: 100%;
+    overflow: auto;
+}
+
+form{
+    background-color: white;
+    padding: 0 60px;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+
+h1{
+    color: #15a6b4;
+    text-align: center;
+    padding-top: 10px;
+}
+
+p{
+    text-align: center;
+    color: rgb(95, 95, 95);
+    align-items: center;
+}
+
+button{
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #15a6b4;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.btn{
+    margin-bottom: 5px;
+    align-items: center;
+    color: #15a6b4;
+    text-decoration: underline;
+}
+
